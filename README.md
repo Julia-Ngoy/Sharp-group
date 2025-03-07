@@ -2,7 +2,6 @@
 Data structures and algorithms assignments
 ## Group members 
 
-## Group Members
 
 | Name             | Course      | Roll Number |
 |------------------|-------------|-------------|
