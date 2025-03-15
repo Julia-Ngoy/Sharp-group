@@ -23,13 +23,15 @@ Data structures and algorithms assignments
 
 ### 2. Pseudo code to swap two numbers
 
-
-**ALGORITHM Swap(num1, num2)**
+undefined
+ALGORITHM Swap(num1, num2)
 Input: read num1, num2
 Output: write swapped values of num1 and num2
 {
   Read num1, num2;
   Write "Swapped numbers: num1 = ", num2, " num2 = ", num1;
-**}**
+}
+undefined
+
 
 
