@@ -13,23 +13,23 @@ Data structures and algorithms assignments
 
 ## Assignment about swapping numbers 
 
-### 1. Algorithm to swap to numbers as entered by the user 
+### 1. Algorithm to swap two numbers as entered by the user
 
-Step 1: START
-Step 2: Input the first number as A 
-Step 3 : Input the second number as B 
-Step 4 : Print the swapped values of A and B
-Step 5 : STOP 
+1. **START**  
+2. Input the first number as **A**  
+3. Input the second number as **B**  
+4. Print the swapped values of **A** and **B**  
+5. **STOP**  
 
 ### 2. Pseudo code to swap two numbers
 
+```plaintext
 ALGORITHM Swap(num1, num2)
-  Input: read num1, num2
-  Output: write swapped values of num1 and num2
+Input: read num1, num2
+Output: write swapped values of num1 and num2
 {
-Read num1, num2;
+  Read num1, num2;
   Write "Swapped numbers: num1 = ", num2, " num2 = ", num1;
 }
-
 
 
