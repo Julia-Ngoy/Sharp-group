@@ -31,8 +31,3 @@ Output: write swapped values of num1 and num2
   Read num1, num2;
   Write "Swapped numbers: num1 = ", num2, " num2 = ", num1;
 }
-
-
-
-
-
