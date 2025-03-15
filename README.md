@@ -13,7 +13,7 @@ Data structures and algorithms assignments
 
 ## Assignment about swapping numbers 
 
-### 1. Algorithm to swap to numbers as enterd by the user 
+### 1. Algorithm to swap to numbers as entered by the user 
 
 Step 1: START
 Step 2: Input the first number as A 
