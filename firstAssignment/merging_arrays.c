@@ -28,14 +28,23 @@ int j;
     scanf("%s", wildAnimals[j]);
  }
 
+ char Animals[N+X][20];
+
+ for (int i =0; i< N; i++){
+    strcpy(Animals[i], domesticAnimals[i]);
+ }
+
+  for (int j =0; j < X; j++){
+    strcpy(Animals[N+j], wildAnimals[j]);
+ }
+
+
  printf("You have entered %d animals. Here is the list :\n", N+X);
- for (i=0; i<N; i++) {
-    printf("%s\n", domesticAnimals[i]);
+ for (int m=0; m<N+X; m++) {
+    printf("%s\n", Animals[m]);
 
  }
-for (j=0; j<X; j++){
-    printf("%s\n", wildAnimals[j]);
-}
 
 
+return 0;
 }
